@@ -1,5 +1,6 @@
 * {
     font-family: 'Roboto', sans-serif;
+    color: white;
 }
 
 .playbutton {
@@ -8,7 +9,6 @@
     border-radius: 12px;
     background-color: white;
     color: black;
-    text-align: center;
 }
 
 body {
@@ -17,5 +17,4 @@ body {
 
 .bestpicture {
     display: block;
-    text-align: center;
 }
