@@ -9,6 +9,9 @@
     border-radius: 12px;
     background-color: white;
     color: black;
+    position: absolute;
+    left: 683px;
+    top: 200px;
 }
 
 body {
@@ -17,4 +20,7 @@ body {
 
 .bestpicture {
     display: block;
+    position: absolute;
+    left: 683px;
+    top: 200px;
 }
