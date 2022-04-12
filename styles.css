@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: black;
+    background-image: url(/more.jpeg);
 }
 
 .playbutton {
@@ -20,6 +20,7 @@ body {
     display: block;
     margin-left auto;                                                                                                                   
     margin-right: auto;
+
 }
 
 
