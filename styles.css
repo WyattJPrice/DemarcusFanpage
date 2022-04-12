@@ -14,15 +14,13 @@ body {
     border-radius: 12px;
     background-color: white;
     color: black;
+}
 
 .bestpicture {
     display: block;
+    margin-left auto;                                                                                                                   
+    margin-right: auto;
 }
 
-.parent {
-    position: absolute;
-    margin-left: auto;
-    margin-right: auto;
-    top: auto;
-}
+
 
