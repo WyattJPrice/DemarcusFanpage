@@ -25,5 +25,13 @@ body {
     border: 10px solid black;
 }
 
+.sometext {
+    display: inline-block;
+    width: 150px;
+    padding: 20px;
+    background-color: black;
+    border-radius: 12px;
+}
+
 
 
