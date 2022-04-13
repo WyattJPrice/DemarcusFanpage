@@ -4,9 +4,20 @@
     text-align: center;
 }
 
-body {
-    background-image: url(/more.jpeg);
-}
+body, html {
+    height: 100%;
+  }
+  
+  .bg {
+    /* The image used */
+    background-image: url("img_girl.jpg");
+  
+    height: 100%;
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 
 .playbutton {
     display: inline-block;
