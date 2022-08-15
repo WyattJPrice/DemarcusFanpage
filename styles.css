@@ -34,5 +34,9 @@ body {
     border-radius: 12px;
 }
 
+.playbutton:hover {
+    fill-opacity: 70%;
+}
+
 
 
